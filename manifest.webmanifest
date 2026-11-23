@@ -1,1 +1,24 @@
-{"name":"VIP Concierge - Airport Services","short_name":"VIP Concierge","description":"Bilingual VIP airport concierge demo booking application","start_url":"./","scope":"./","display":"standalone","background_color":"#091827","theme_color":"#0c2035","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "Pearl VIP Services",
+  "short_name": "Pearl VIP",
+  "description": "Pearl VIP Services bilingual airport concierge demonstration",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091827",
+  "theme_color": "#0c2035",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
