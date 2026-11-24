@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35284135/README.md)
 # Pearl VIP Services — Bilingual PWA
 
 Free installable airport VIP concierge academic demo. English / Arabic.
